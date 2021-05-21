@@ -5,7 +5,7 @@
 My name is Gokul Shenoy and I'm a software development enthusiast and a student game developer. I'm from India, living in Dubai and currently studying in the 8th Grade. You can find me on <a href="https://grunkgrunk.itch.io/"><img height="30" width="30" src="https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/main/itch-io%20(1).png"></a>,  or on <a href="https://dev.to/CoderBroDev"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>.
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog on [DEV.to](https://dev.to/CoderBroDev).
+Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
