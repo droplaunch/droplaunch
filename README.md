@@ -32,7 +32,7 @@ Apart from coding, I also maintain a blog on [DEV.to](https://dev.to/CoderBroDev
 </a>
 
 <a href="https://github.com/CoderBroDev/LetterFinder1.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=LetterFinder1.0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderBroDev&repo=LetterFinder1.0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
