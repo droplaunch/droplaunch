@@ -2,7 +2,7 @@
 # [![CoderBroDev's header](https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/main/SmartSelect_20210521-151936_Sketch.jpg)](https://coderbro.coderbrodev.repl.co/)
 
 # Hello, folks <img src="https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/master/wave.gif" width="30px">
-My name is Gokul Shenoy and I'm a software development enthusiast and a student game developer. I'm from India, living in Dubai and currently studying in the 8th Grade. You can find me on <img src="https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/main/itch-io%20(1).png"><a href="https://grunkgrunk.itch.io/">itch.io</a>,  or on <a href="https://dev.to/CoderBroDev"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>.
+My name is Gokul Shenoy and I'm a software development enthusiast and a student game developer. I'm from India, living in Dubai and currently studying in the 8th Grade. You can find me on <img height="10" width="10" src="https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/main/itch-io%20(1).png"><a href="https://grunkgrunk.itch.io/">itch.io</a>,  or on <a href="https://dev.to/CoderBroDev"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>.
 
 <!--
 **CoderBroDev/CoderBroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
