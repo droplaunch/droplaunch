@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/CoderBroDev/SmartSelect_20210521-151936_Sketch.jpg "Header")](https://some-url.dev/)
+# # [![CoderBroDev's header](https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/main/SmartSelect_20210521-151936_Sketch.jpg)](https://waylonwalker.com)
 
 <!--
 **CoderBroDev/CoderBroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
