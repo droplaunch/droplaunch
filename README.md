@@ -34,7 +34,7 @@ Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev
 <a href="https://github.com/CoderBroDev/LetterFinder1.0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderBroDev&repo=LetterFinder1.0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<iframe src="bottom_header.svg"></iframe>
+<iframe src="bottom_header.svg">
 
 <!--
 **CoderBroDev/CoderBroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
