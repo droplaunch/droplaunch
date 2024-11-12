@@ -2,7 +2,7 @@
 [![CoderBroDev's header](https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/main/SmartSelect_20210521-151936_Sketch.jpg)](https://coderbro.coderbrodev.repl.co/)
 
 # Hello, folks <img src="https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/master/wave.gif" width="30px">
-My name is Gokul Shenoy and I'm a software development enthusiast and a student game developer. I'm from India, living in Dubai and currently studying in the 10th Grade.
+My name is Gokul Shenoy and I'm a software development enthusiast and a student game developer. I'm from India, living in Dubai and currently studying in the 11th Grade.
 <br>
 I currently own a game development company called Metroid Games and you can find out about it on <a href="[https://metroid-studios.itch.io/]"><img height="30" width="30" src="https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/main/itch-io%20(1).png"></a>
 <br>
