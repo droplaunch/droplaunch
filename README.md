@@ -4,11 +4,11 @@
 # Hello, folks <img src="https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/master/wave.gif" width="30px">
 My name is Gokul Shenoy and I'm a software development enthusiast and a student game developer. I'm from India, living in Dubai and currently studying in the 11th Grade.
 <br>
-I currently own a game development company called Metroid Games and you can find out about it on <a href="[https://metroid-studios.itch.io/]"><img height="30" width="30" src="https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/main/itch-io%20(1).png"></a>
+I used to own a game development company called Metroid Games and you can find out about it on <a href="[https://metroid-studios.itch.io/]"><img height="30" width="30" src="https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/main/itch-io%20(1).png"></a>
 <br>
 Formerly interned at <a href="[https://freshclass.netlify.app/]">FreshClass CSS</a>.
 <br>
-Currently a tutor at  <a href="[[https://freshclass.netlify.app/](https://home-page--computex.repl.co/)]">ComputeX</a>.
+Co-Manager at  <a href="[[https://freshclass.netlify.app/]()]">ComputeX</a>.
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>.
