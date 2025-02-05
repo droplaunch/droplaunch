@@ -1,5 +1,5 @@
-# Who is CoderBroDev ?
-[![CoderBroDev's header](https://raw.githubusercontent.com/droplaunch/CoderBroDev/main/SmartSelect_20210521-151936_Sketch.jpg)](https://coderbro.coderbrodev.repl.co/)
+# Who is Gokul Shenoy ?
+[![Gokul's header](https://raw.githubusercontent.com/droplaunch/droplaunch/main/SmartSelect_20210521-151936_Sketch.jpg)](https://coderbro.coderbrodev.repl.co/)
 
 # Hello, folks <img src="https://raw.githubusercontent.com/droplaunch/CoderBroDev/master/wave.gif" width="30px">
 My name is Gokul Shenoy and I'm a software development enthusiast and a student game developer. I'm from India, living in Dubai and currently studying in the 11th Grade.
