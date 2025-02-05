@@ -1,10 +1,10 @@
 # Who is CoderBroDev ?
 [![CoderBroDev's header](https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/main/SmartSelect_20210521-151936_Sketch.jpg)](https://coderbro.coderbrodev.repl.co/)
 
-# Hello, folks <img src="https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/master/wave.gif" width="30px">
+# Hello, folks <img src="https://raw.githubusercontent.com/droplaunch/CoderBroDev/master/wave.gif" width="30px">
 My name is Gokul Shenoy and I'm a software development enthusiast and a student game developer. I'm from India, living in Dubai and currently studying in the 11th Grade.
 <br>
-I own a game development company called Metroid Studios and you can find out about it on <a href="[https://metroid-studios.itch.io/]"><img height="30" width="30" src="https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/main/itch-io%20(1).png"></a>
+I own a game development company called Metroid Studios and you can find out about it on <a href="[https://metroid-studios.itch.io/]"><img height="30" width="30" src="https://raw.githubusercontent.com/droplaunch/CoderBroDev/main/itch-io%20(1).png"></a>
 <br>
 Formerly interned at <a href="[https://freshclass.netlify.app/]">FreshClass CSS</a>.
 <br>
@@ -30,17 +30,17 @@ Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/CoderBroDev/CoderBroDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderBroDev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/droplaunch/CoderBroDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droplaunch&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/CoderBroDev/CoderBroDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderBroDev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="CoderBroDev's GitHub Stats" />
+<a href="https://github.com/droplaunch/CoderBroDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=droplaunch&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="droplaunch's GitHub Stats" />
 </a>
 
 <a href="https://github.com/CoderBroDev/LetterFinder1.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderBroDev&repo=LetterFinder1.0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droplaunch&repo=LetterFinder1.0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<img src="https://raw.githubusercontent.com/CoderBroDev/CoderBroDev/9edfbcc231a183c9dd63b80664e358bc831643ed/bottom_header.svg">
+<img src="https://raw.githubusercontent.com/droplaunch/CoderBroDev/9edfbcc231a183c9dd63b80664e358bc831643ed/bottom_header.svg">
 
 <!--
 **CoderBroDev/CoderBroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
