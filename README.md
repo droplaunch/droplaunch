@@ -15,7 +15,7 @@ Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev
 
 ## &#x270d; 🔭 I’m currently working on ...
 I'm currently working on my music producing skills and making my first rap album, "The Graduates 6:16". This is a project under the collective 
-The Digtal Error
+[The Digital Error](https://www.youtube.com/channel/UCP9smVYka1WdfbXX4XOgBPg)
 <br>
 I'm still working on ComputeX as the co-manager overssing operations at the startup
 <br>
