@@ -44,7 +44,7 @@ I'm also finalising all my projects and contributions to the mechatronics and AI
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=droplaunch&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="droplaunch's GitHub Stats" />
 </a>
 
-<a href="https://github.com/droplaunch/LetterFinder1.0">
+<a href="https://github.com/droplaunch/NHACK-COMPETITION-ImmunoGen-V1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droplaunch&repo=LetterFinder1.0&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <img src="https://raw.githubusercontent.com/droplaunch/droplaunch/9edfbcc231a183c9dd63b80664e358bc831643ed/bottom_header.svg">
