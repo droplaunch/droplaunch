@@ -8,7 +8,7 @@ I own a game development company called Metroid Studios and you can find out abo
 <br>
 I had formerly interned at <a href="[https://freshclass.netlify.app/]">FreshClass CSS</a>.
 <br>
-Co-Manager at  <a href="[[[https://freshclass.netlify.app/](https://www.youtube.com/@ComputeXDPSD)]()]">ComputeX</a>.
+Co-Manager at  <a href="[(https://www.youtube.com/@ComputeXDPSD)]">ComputeX</a>.
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>.
