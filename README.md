@@ -13,6 +13,13 @@ Co-Manager at  <a href="[(https://www.youtube.com/@ComputeXDPSD)]">ComputeX</a>.
 
 Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>.
 
+## &#x270d; 🔭 I’m currently working on ...
+I'm currently working on my music producing skills and making my first rap album, "The Graduates 6:16". This is a project under the collective 
+The Digtal Error
+<br>
+I'm still working on ComputeX as the co-manager overssing operations at the startup
+<br>
+I'm also finalising all my projects and contributions to the mechatronics and AI sector such as the NeuroGen V.1 and MedMusic
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
