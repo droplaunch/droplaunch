@@ -2,11 +2,11 @@
 [![Gokul's header](https://github.com/droplaunch/droplaunch/blob/main/WhatsApp%20Image%202024-12-29%20at%2016.22.35_e5f338fc.jpg?raw=true)](https://coderbro.coderbrodev.repl.co/)
 
 # Hello, folks <img src="https://raw.githubusercontent.com/droplaunch/CoderBroDev/master/wave.gif" width="30px">
-My name is Gokul Shenoy and I'm a software development and mechatronics enthusiast and a student game developer. I'm from India, living in Dubai and currently studying in the 11th Grade.
+My name is Gokul Sanjeev Shenoy and I'm a software development and mechatronics enthusiast and a student game developer. I'm from India, living in Dubai and in my final year of high school.
 <br>
 I own a game development company called Metroid Studios and you can find out about it on <a href="[https://metroid-studios.itch.io/]"><img height="30" width="30" src="https://raw.githubusercontent.com/droplaunch/droplaunch/main/itch-io%20(1).png"></a>
 <br>
-I had formerly interned at <a href="[https://freshclass.netlify.app/]">FreshClass CSS</a>.
+I had formerly worked on a project called <a href="[https://freshclass.netlify.app/]">FreshClass CSS</a>.
 <br>
 Co-Manager at  <a href="[(https://www.youtube.com/@ComputeXDPSD)]">ComputeX</a>.
 ## &#x270d; Blog & Writing
@@ -17,7 +17,7 @@ Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev
 I'm currently working on my music producing skills and making my first rap album, "The Graduates 6:16". This is a project under the collective 
 [The Digital Error](https://www.youtube.com/channel/UCP9smVYka1WdfbXX4XOgBPg)
 <br>
-I'm still working on ComputeX as the co-manager overssing operations at the startup
+I'm still working on ComputeX as the co-manager overseeing operations at the startup
 <br>
 I'm also finalising all my projects and contributions to the mechatronics and AI sector such as the NeuroGen V.1 and MedMusic
 ## 🔧 Technologies & Tools
