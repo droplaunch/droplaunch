@@ -6,7 +6,7 @@ My name is Gokul Sanjeev Shenoy and I'm a software development and mechatronics 
 <br>
 I own a game development company called Metroid Studios and you can find out about it on <a href="[https://metroid-studios.itch.io/]"><img height="30" width="30" src="https://raw.githubusercontent.com/droplaunch/droplaunch/main/itch-io%20(1).png"></a>
 <br>
-I had formerly worked on a project called <a href="[https://freshclass.netlify.app/]"></a>.
+I had formerly worked on a project called <a href="[https://freshclass.netlify.app/]"><h1>Freshclass CSS</h1></a>.
 <br>
 Co-Manager at  <a href="[(https://www.youtube.com/@ComputeXDPSD)]">ComputeX</a>.
 ## &#x270d; Blog & Writing
