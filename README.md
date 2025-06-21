@@ -4,7 +4,7 @@
 # Hello, folks <img src="https://raw.githubusercontent.com/droplaunch/CoderBroDev/master/wave.gif" width="30px">
 My name is Gokul Sanjeev Shenoy and I'm a software development and mechatronics enthusiast and a student game developer. I'm from India, living in Dubai and in my final year of high school.
 <br>
-I own a game development company called Metroid Studios and you can find out about it on <a href="[https://metroid-studios.itch.io/]"><img height="30" width="30" src="https://raw.githubusercontent.com/droplaunch/droplaunch/main/itch-io%20(1).png"></a>
+I own a game development company called Metroid Studios and you can find out about it on [](https://www.youtube.com/channel/UCP9smVYka1WdfbXX4XOgBPg)<a href="[https://metroid-studios.itch.io/]"><img height="30" width="30" src="https://raw.githubusercontent.com/droplaunch/droplaunch/main/itch-io%20(1).png"></a>
 <br>
 I had formerly worked on a project called <a href="[https://freshclass.netlify.app/]">Freshclass CSS</a>.
 <br>
