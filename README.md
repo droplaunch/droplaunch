@@ -17,12 +17,12 @@ Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev
 2) MS in AI/ML(CMU/Northeastern/MIT).
 3) Publish my research paper on Phantom Load Detection(PLD).
 ## &#x270d; ✍ 🔭 I’m currently working on ...
-I'm currently working on my music producing skills and making my first rap album, "The Graduates 6:16". This is a project under the collective 
+I'm currently working on my music producing skills and making my first rap album, "The Testing Grounds". This is a project under the collective 
 [The Digital Error](https://www.youtube.com/channel/UCP9smVYka1WdfbXX4XOgBPg)
 <br>
 I'm still working on ComputeX as the co-manager overseeing operations at the startup
 <br>
-I'm also finalising all my projects and contributions to the mechatronics and AI sector such as the NeuroGen V.1 and MedMusic
+I'm also finalising all my projects and contributions to the mechatronics and AI sector such as the NeuroGen V.1 and MindGate Research
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
