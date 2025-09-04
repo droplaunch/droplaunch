@@ -18,6 +18,7 @@ Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev
 2) MS in AI/ML(CMU/Northeastern/MIT).
 <br>
 3) Publish my research paper on Phantom Load Detection(PLD).
+<br>
 ## &#x270d; 🔭 I’m currently working on ...
 I'm currently working on my music producing skills and making my first rap album, "The Graduates 6:16". This is a project under the collective 
 [The Digital Error](https://www.youtube.com/channel/UCP9smVYka1WdfbXX4XOgBPg)
