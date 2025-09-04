@@ -14,9 +14,7 @@ Co-Manager at  <a href="https://www.youtube.com/@ComputeXDPSD">ComputeX</a>.
 Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>.
 ## &#x270d; 🔮🧑‍💻 Future Goals 
 1) Work on a research paper on different mathematical models with my future professors and currently with my vice principals, Mrs.Blessy and Mrs. Sunita.
-<br>
 2) MS in AI/ML(CMU/Northeastern/MIT).
-<br>
 3) Publish my research paper on Phantom Load Detection(PLD).
 <br>
 
