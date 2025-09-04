@@ -16,8 +16,6 @@ Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev
 1) Work on a research paper on different mathematical models with my future professors and currently with my vice principals, Mrs.Blessy and Mrs. Sunita.
 2) MS in AI/ML(CMU/Northeastern/MIT).
 3) Publish my research paper on Phantom Load Detection(PLD).
-<br>
-
 ## &#x270d; ✍ 🔭 I’m currently working on ...
 I'm currently working on my music producing skills and making my first rap album, "The Graduates 6:16". This is a project under the collective 
 [The Digital Error](https://www.youtube.com/channel/UCP9smVYka1WdfbXX4XOgBPg)
@@ -49,11 +47,11 @@ I'm also finalising all my projects and contributions to the mechatronics and AI
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=droplaunch&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="droplaunch's GitHub Stats" />
 </a>
 
-<a href="https://github.com/droplaunch/NHACK-COMPETITION-ImmunoGen-V1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droplaunch&repo=NHACK-COMPETITION-ImmunoGen-V1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/droplaunch/crownftc.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droplaunch&repo=crownftc.com&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/droplaunch/thewarehouse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droplaunch&repo=thewarehouse&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/droplaunch/the-social-journal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droplaunch&repo=the-social-journal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <img src="https://raw.githubusercontent.com/droplaunch/droplaunch/9edfbcc231a183c9dd63b80664e358bc831643ed/bottom_header.svg">
 
