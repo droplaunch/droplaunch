@@ -12,7 +12,12 @@ Co-Manager at  <a href="https://www.youtube.com/@ComputeXDPSD">ComputeX</a>.
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>.
-
+## &#x270d; Future Goals 🔮🧑‍💻
+1) Work on a research paper on different mathematical models with my future professors and currently with my vice principals, Mrs.Blessy and Mrs. Sunita.
+<br>
+2) MS in AI/ML(CMU/Northeastern/MIT).
+<br>
+3) Publish my research paper on Phantom Load Detection(PLD).
 ## &#x270d; 🔭 I’m currently working on ...
 I'm currently working on my music producing skills and making my first rap album, "The Graduates 6:16". This is a project under the collective 
 [The Digital Error](https://www.youtube.com/channel/UCP9smVYka1WdfbXX4XOgBPg)
