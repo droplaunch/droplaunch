@@ -8,7 +8,7 @@ I own a game development company called Metroid Studios and you can find out abo
 <br>
 I had formerly worked on a project called <a href="https://freshclass.netlify.app/">Freshclass CSS</a>.
 <br>
-Co-Manager at  <a href="https://www.youtube.com/@ComputeXDPSD">ComputeX</a>.
+Former Co-President at  <a href="https://www.youtube.com/@ComputeXDPSD">ComputeX</a>.
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>.
@@ -20,7 +20,7 @@ Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev
 I'm currently working on my music producing skills and making my first rap album, "The Testing Grounds". This is a project under the collective 
 [The Digital Error](https://www.youtube.com/channel/UCP9smVYka1WdfbXX4XOgBPg)
 <br>
-I formerly worked and led ComputeX, a computet science tutoring club for K to 12 students.
+I formerly worked and led ComputeX, a computer science tutoring club for K to 12 students.
 <br>
 Burnt out after college apps, working for the board exams.
 ## 🔧 Technologies & Tools
