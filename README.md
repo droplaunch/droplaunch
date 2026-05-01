@@ -39,18 +39,17 @@ Burnt out after college apps, working for the board exams.
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/droplaunch/droplaunch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droplaunch&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/droplaunch/droplaunch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=droplaunch&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="droplaunch's GitHub Stats" />
-</a>
 <a href="https://github.com/droplaunch/crownftc.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droplaunch&repo=crownftc.com&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/droplaunch/the-social-journal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droplaunch&repo=the-social-journal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/droplaunch/futuracrop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droplaunch&repo=futuracrop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/droplaunch/ZestX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droplaunch&repo=ZestX&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <img src="https://raw.githubusercontent.com/droplaunch/droplaunch/9edfbcc231a183c9dd63b80664e358bc831643ed/bottom_header.svg">
 
