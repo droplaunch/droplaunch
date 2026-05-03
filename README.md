@@ -8,7 +8,7 @@
 <br>
 -Besides this game-development company, as a passionate computer science student in high-school, I had formerly worked on 2 projects. One of them was called <a href="https://freshclass.netlify.app/">Freshclass CSS</a>. The other one was where I was the former Co-President at <a href="https://www.youtube.com/@ComputeXDPSD">ComputeX</a>. I did a lot besides these 2 projects as a high-school student and that gave me an experience of navigating through my surroundings as a future engineer. 
 <br>
--You can check out my previous projects and work over on my <img height="30" width="30" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png/jcr:content/renditions/brand-inlogo-download-fg-dsk-v01-2x.png"></a>
+-You can check out my previous projects and work over on my: <img height="30" width="30" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png/jcr:content/renditions/brand-inlogo-download-fg-dsk-v01-2x.png"></a>
 <br>
 ## &#x270d; Blog & Writing
 
