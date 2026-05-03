@@ -39,9 +39,7 @@ Revising high-school material before college starts and building EchoEye at the 
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/droplaunch/crownftc.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=droplaunch&repo=crownftc.com&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+Starting afresh should be the case for now. My previous projects were at the intermediate level. Check out my pinned repositories below/
 <img src="https://raw.githubusercontent.com/droplaunch/droplaunch/9edfbcc231a183c9dd63b80664e358bc831643ed/bottom_header.svg">
 
 <!--
