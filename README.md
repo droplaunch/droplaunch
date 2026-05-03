@@ -18,10 +18,10 @@ Apart from coding, I also maintain a blog on <a href="https://dev.to/CoderBroDev
 2) PhD in Robotics/Engineering Physics at MIT/Imperial College/Stanford
 3) Build my very own Iron Man Suit(the dream of every engineer)
 ## &#x270d; ✍ 🔭 I’m currently working on ...
-I'm currently working on my music producing skills and currently experimenting new soundscapes. I was making my first rap album, "The Testing Grounds" initially but that is shelved for now. This was supposed to be a project under the collective 
+-I'm currently working on my music producing skills and currently experimenting new soundscapes. I was making my first rap album, "The Testing Grounds" initially but that is shelved for now. This was supposed to be a project under the collective 
 [The Digital Error](https://www.youtube.com/channel/UCP9smVYka1WdfbXX4XOgBPg) however I don't plan on giving up on it anytime soon.
 <br>
-Revising high-school material before college starts and building EchoEye at the same time.
+-Revising high-school material before college starts and building EchoEye at the same time.
 <br>
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
