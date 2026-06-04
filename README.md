@@ -2,7 +2,7 @@
 [![Gokul's header](https://github.com/droplaunch/droplaunch/blob/main/WhatsApp%20Image%202024-12-29%20at%2016.22.35_e5f338fc.jpg?raw=true)](https://coderbro.coderbrodev.repl.co/)
 
 # Hello, folks <img src="https://raw.githubusercontent.com/droplaunch/CoderBroDev/master/wave.gif" width="30px">
--My name is Gokul Sanjeev Shenoy and I'm an incoming Computer Engineering with a possible double major in Electrical Engineering student at the University of Cincinnati. I formerly studied at Delhi Priavte School Dubai as a computer science student and ever since high-school, I have always loved building new projects. In fact my goal is to build 88 projects in 12 weeks which is hard but I like taking risks.
+-My name is Gokul Sanjeev Shenoy and I'm an incoming Computer Engineering with a possible double major in Electrical Engineering student at the University of Cincinnati. I formerly studied at Delhi Private School Dubai as a computer science student and ever since high-school, I have always loved building new projects. In fact my goal is to build 88 projects in 12 weeks which is hard but I like taking risks.
 <br>
 -I used to own a game development company called Metroid Studios and you can find out about it on <a href="https://metroid-studios.itch.io/"><img height="30" width="30" src="https://raw.githubusercontent.com/droplaunch/droplaunch/main/itch-io%20(1).png"></a>
 <br>
